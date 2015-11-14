@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterdeathscreen",
+  "name": "BetterDeathScreen",
+  "description": "Adds a chat box to the death screen, among with some useful commands. Companion mod to Hardcore Revival.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BlayTheNinth"],
+  "credits": "BlayTheNinth",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
